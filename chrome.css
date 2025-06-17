@@ -1,0 +1,4 @@
+html:not([sizemode="fullscreen"]) .browserContainer,
+html:not([sizemode="fullscreen"]) .browserStack {
+    background: white;
+}
